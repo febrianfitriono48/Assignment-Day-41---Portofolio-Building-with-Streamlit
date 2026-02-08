@@ -19,3 +19,6 @@ Interactive Streamlit dashboard for analyzing global nickel production trends.
 ## Author
 Febrian Fitriono  
 Supervisor — Nickel Mining
+
+## Live App:
+https://assignment-day-41---portofolio-building-with-app-f9lrpv69m7w7q.streamlit.app
